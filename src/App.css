@@ -1,0 +1,35 @@
+.section {
+	border: 1px solid #333;
+	float: left;
+	margin: 100px 35% 0;
+	padding: 20px;
+	width: 30%;
+}
+
+.section-heading {
+	text-align: center;
+	margin: 0 0 20px;
+}
+
+.section-body {
+	width: 100%;
+}
+
+.section-item {
+	float: left;
+	margin: 0 0 20px;
+	width: 100%;
+}
+
+.left {
+	float: left;
+	font-size: 18px;
+	font-weight: 700;
+	padding: 8.5px 0;
+	width: 20%;
+}
+
+.right {
+	float: right;
+	width: 80%;
+}
