@@ -1,5 +1,5 @@
-# React Redux Demo
-React + React Select Demo
+# React + React Select Demo
+A Simple demo which help you to start with React & React Select.
 
 ## Dependencies
   1. react
